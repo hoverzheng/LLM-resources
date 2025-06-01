@@ -347,6 +347,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [Trae](https://www.trae.ai/)
 8. [MGX](https://mgx.dev/)
 9. [Devin](https://devin.ai/)
+10. [Continue](https://www.continue.dev/)
+11. [swimm:代码转文档](https://swimm.io/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
