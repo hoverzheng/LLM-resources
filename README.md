@@ -349,6 +349,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. [Devin](https://devin.ai/)
 10. [Continue](https://www.continue.dev/)
 11. [swimm:代码转文档](https://swimm.io/)
+12. [coddy](https://sourcegraph.com/demo/cody)
+13. [kilocode.ai](https://kilocode.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
