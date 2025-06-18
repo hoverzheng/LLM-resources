@@ -134,6 +134,9 @@
 41. [DeepSeek-671B-SFT-Guide](https://github.com/ScienceOne-AI/DeepSeek-671B-SFT-Guide): An open-source solution for full parameter fine-tuning of DeepSeek-V3/R1 671B, including complete code and scripts from training to inference, as well as some practical experiences and conclusions.
 42. [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 
+* 调优文章： https://lightning.ai/pages/community/lora-insights/
+
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
